@@ -8,6 +8,8 @@ An interactive quiz app developed using React Native with TypeScript and designe
 
 - **Question Screen**: Displays coding questions and options as buttons, with a submit button to validate answers.
 - **Answer Validation**: Checks if the answer is correct or incorrect and provides feedback.
+
+Future Implementations:
 - **Animations**: Uses React Native Animated API or Reanimated for:
   - Confetti or badge animation on correct answer.
   - Subtle shake or fade-in effect on incorrect answer.
@@ -15,8 +17,10 @@ An interactive quiz app developed using React Native with TypeScript and designe
 #### Technologies Used
 - **React Native**
 - **TypeScript**
-- **React Native Animated API / Reanimated**
 - **Figma** for UI/UX Design
+
+Future Technology:
+- **React Native Animated API / Reanimated**
 
 ## Features
 
